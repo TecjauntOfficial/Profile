@@ -1,7 +1,7 @@
 
 # Tecjaunt
 
-![Company Logo](https://drive.google.com/file/d/1pPHZpGJhiGnFyJuDM3L8-ciXf6QpVMDS/view?usp=sharing)
+![Company Logo] <img href="https://drive.google.com/file/d/1pPHZpGJhiGnFyJuDM3L8-ciXf6QpVMDS/view?usp=sharing">
 
 Welcome to ]Tecjaunt Software Solutions, a leading software development company with over 10 years of experience. We specialize in a wide range of services, including 
 ERP System development, Cloud Computing, Web Development, Mobile App Development, Game Development, Graphic Designing, and Web Design.
